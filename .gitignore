@@ -21,3 +21,6 @@
 /minigzip64
 /minigzipsh
 /zlib.pc
+/smart
+smart.backup.*
+smart.e.backup.*
